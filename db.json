@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "John",
+      "mobile": "9874563218",
+      "email": "john@gmail.com"
+    },
+    {
+      "name": "Steve Smith",
+      "mobile": "9487563210",
+      "email": "ss@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Halbert Joseph",
+      "mobile": "9000452678",
+      "email": "joseph@gmail.com"
+    },
+    {
+      "name": "lalitha",
+      "mobile": "8974563102",
+      "email": "lalli@gmail.com",
+      "id": "4"
+    },
+    {
+      "name": "Harini Lakkoju",
+      "mobile": "9878456320",
+      "email": "harinii@gmail.com",
+      "id": "5"
+    },
+    {
+      "name": "hasini",
+      "mobile": "9545316352",
+      "email": "Hasini@gmail.com",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "name": "David Warner",
+      "mobile": "7799837674",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "Satya",
+      "mobile": "9545316350",
+      "email": "sadfs@gmail.com"
+    },
+    {
+      "id": "9",
+      "name": "Sanvika Murali",
+      "mobile": "769874123",
+      "email": "sanvi@gmail.com"
+    },
+    {
+      "id": "10",
+      "name": "Kumari",
+      "mobile": "8967451230",
+      "email": "kumari@gmail.com"
+    }
+  ]
+}
